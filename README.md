@@ -6,3 +6,6 @@ poc-git-pages
 [2nd page checkers](/page2.md)
 
 ![first pic](/logo.png)
+
+[link to project 1](/test-jobindjohn)
+
