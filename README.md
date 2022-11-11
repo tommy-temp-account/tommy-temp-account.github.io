@@ -1,4 +1,4 @@
 # tommy-temp-account.github.io
 poc-git-pages
 
-[[page1.md]]
+[first page checkers](/page1.md)
