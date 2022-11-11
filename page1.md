@@ -1,3 +1,7 @@
+layout: page
+title: "first page uWu"
+permalink: /page1
+
 # header 1
 
 ## header 2
